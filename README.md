@@ -1,3 +1,7 @@
+# To do
+
+- [ ] Allow use alongside `sst bind`
+
 # Playwright Test for VS Code
 
 This extension integrates Playwright into your VS Code workflow. Here is what it can do:
